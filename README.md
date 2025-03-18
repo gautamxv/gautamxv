@@ -1,16 +1,16 @@
 ![logo](https://github.com/gautamxv/gautamxv/blob/main/freepik-export-20241111113947LnAW.jpeg)
-<h1 align="center">Hi 👋, I'm Yogesh Mishra</h1>
-<h3 align="center">A passionate full Stack MERN developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
+<h3 align="center">A passionate Front-End developer from India</h3>
  
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width ="400" align = "right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takashi-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="takashi-mishra" /> </p>
 
-- 🔭 I’m currently working on [Static web page for an Electronic shop](https://new-kumar-electronic.vercel.app/)
+- 🔭 I’m currently working on [Resume Maker ](https://new-kumar-electronic.vercel.app/)
 
-- 🌱 I’m currently learning **Three.js,**
+- 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **yogeshmishra4822@gmail.com**
+- 📫 How to reach me **gautamdpgdegreecollege@gmail.com**
 
 - ⚡ Fun fact **I am always eager to learn about business and related topics.**
 
